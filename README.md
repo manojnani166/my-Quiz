@@ -16,4 +16,4 @@
 
 ## Demo
 
-[Demo Link](eclectic-boba-c67d6b.netlify.app/)
+[Demo Link](https://eclectic-boba-c67d6b.netlify.app/)
