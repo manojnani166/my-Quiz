@@ -1,4 +1,4 @@
- my-Quiz
+
 
 ## Features 🌟
 - Displays a question with a list of choices
@@ -16,4 +16,4 @@
 
 ## Demo
 
-[Demo Link](https://effervescent-cannoli-5ee706.netlify.app/)
+[Demo Link](eclectic-boba-c67d6b.netlify.app/)
