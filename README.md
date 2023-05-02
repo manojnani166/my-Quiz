@@ -8,11 +8,9 @@
 
 
 ## 🛠️ Tech Stack
-- 
-- 
-- 
-- 
-- 
+- React js
+- SCSS
+
 
 ## Demo
 
