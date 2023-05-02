@@ -71,7 +71,7 @@ const Quiz = ({ questions }) => {
           <ul>
             {choices.map((choice, index) => (
               <li
-                onClick={() => onAnwswerClick(choice, index)}
+                onClick={() => onAnswerClick(choice, index)}
                 key={choice}
                 className={answerIdx === index ? "selected-answer" : null}
               >
